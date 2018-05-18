@@ -1,0 +1,29 @@
+{
+  "name": "sails-hook-webpack-4",
+  "version": "0.0.1",
+  "description": "Webpack 4.x asset pipeline hook for Sails.js",
+  "keywords": [
+    "sails",
+    "webpack"
+  ],
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nearsingularity/sails-hook-webpack-4.git"
+  },
+  "dependencies": {
+    "webpack": "^4.8.3",
+    "webpack-dev-server": "^3.1.4",
+    "webpack-hot-middleware": "^2.22.2",
+    "webpack-merge": "^4.1.2"
+  },
+  "sails": {
+    "isHook": true,
+    "hookName": "webpack"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nearsingularity/sails-hook-webpack-4/issues"
+  },
+  "homepage": "https://github.com/nearsingularity/sails-hook-webpack-4#readme"
+}
