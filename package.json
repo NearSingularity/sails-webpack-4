@@ -25,5 +25,9 @@
   "bugs": {
     "url": "https://github.com/nearsingularity/sails-hook-webpack-4/issues"
   },
-  "homepage": "https://github.com/nearsingularity/sails-hook-webpack-4#readme"
+  "homepage": "https://github.com/nearsingularity/sails-hook-webpack-4#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NearSingularity"
 }
