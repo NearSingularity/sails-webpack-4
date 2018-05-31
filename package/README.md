@@ -90,4 +90,4 @@ $ sails lift
 ## License
 MIT
 
-Inspired by other sails-webpack-hooks like [sails-hook-webpack2](https://github.com/lewebsimple/sails-hook-webpack2) and [sails-hook-webpack3](https://www.npmjs.com/package/sails-hook-webpack3)...just done my way and with Webpack 4 in mind.
+Inspired by other sails-webpack-hooks...just done my way.
