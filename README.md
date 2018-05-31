@@ -2,7 +2,7 @@
 
 ## Install
 ```sh
-$ npm install sails-webpack --save
+$ npm install sails-hook-webpacker --save
 ```
 ## Setup
 
