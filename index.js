@@ -9,7 +9,7 @@
 const webpack = require('webpack');
 const merge = require('webpack-merge');
 
-module.exports = sails => {
+module.exports = function(sails) {
 
   if (!sails.config.webpack) {
     sails.log.warn('Add a config/webpack.js to your sails app.');

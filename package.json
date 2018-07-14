@@ -9,7 +9,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nearsingularity/sails-hook-webpack-4.git"
+    "url": "git+https://github.com/nearsingularity/sails-webpack-4.git"
   },
   "dependencies": {
     "webpack": "^4.8.3",
@@ -23,9 +23,9 @@
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nearsingularity/sails-hook-webpack-4/issues"
+    "url": "https://github.com/nearsingularity/sails-webpack-4/issues"
   },
-  "homepage": "https://github.com/nearsingularity/sails-hook-webpack-4#readme",
+  "homepage": "https://github.com/nearsingularity/sails-webpack-4#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

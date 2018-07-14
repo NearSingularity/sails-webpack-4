@@ -2,7 +2,7 @@
 
 ## Install
 ```sh
-$ npm install sails-hook-webpacker --save
+npm install sails-hook-webpacker --save
 ```
 ## Setup
 
@@ -84,7 +84,7 @@ The rest can be vue'd (pun intended) [here](https://github.com/NearSingularity/s
 ### Lift!
 
 ```sh
-$ sails lift
+sails lift
 ```
 
 ## License
